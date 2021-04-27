@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/adem/CLionProjects/untitled7/main.c
+/home/adem/Bureau/programmation-linaire-en-nombres-entiers/main.c
 stdio.h
 -
 stdlib.h

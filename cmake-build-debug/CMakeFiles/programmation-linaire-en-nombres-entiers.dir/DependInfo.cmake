@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/adem/CLionProjects/untitled7/main.c" "/home/adem/CLionProjects/untitled7/cmake-build-debug/CMakeFiles/untitled7.dir/main.c.o"
+  "/home/adem/Bureau/programmation-linaire-en-nombres-entiers/main.c" "/home/adem/Bureau/programmation-linaire-en-nombres-entiers/cmake-build-debug/CMakeFiles/programmation-linaire-en-nombres-entiers.dir/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

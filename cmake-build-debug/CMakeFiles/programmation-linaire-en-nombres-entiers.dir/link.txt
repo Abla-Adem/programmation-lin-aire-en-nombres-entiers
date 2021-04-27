@@ -1,0 +1,1 @@
+/usr/bin/gcc -g   CMakeFiles/programmation-linaire-en-nombres-entiers.dir/main.c.o  -o programmation-linaire-en-nombres-entiers 

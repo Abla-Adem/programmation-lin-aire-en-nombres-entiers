@@ -1,4 +1,4 @@
-# Install script for directory: /home/adem/CLionProjects/untitled7
+# Install script for directory: /home/adem/Bureau/programmation-linaire-en-nombres-entiers
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/adem/CLionProjects/untitled7/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/adem/Bureau/programmation-linaire-en-nombres-entiers/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
